@@ -1,0 +1,13 @@
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\bin\Debug\Chapter4.Recipe9.exe
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\bin\Debug\Chapter4.Recipe9.pdb
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\Recipe9.csprojResolveAssemblyReference.cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\MainWindow.baml
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\MainWindow.g.cs
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\App.g.cs
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\Chapter4.Recipe9_MarkupCompile.cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\Chapter4.Recipe9.g.resources
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\Chapter4.Recipe9.Properties.Resources.resources
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\Recipe9.csproj.GenerateResource.Cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\Recipe9.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\Chapter4.Recipe9.exe
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter4\Recipe9\obj\Debug\Chapter4.Recipe9.pdb

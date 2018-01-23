@@ -1,0 +1,8 @@
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter10\Recipe3\bin\Debug\Chapter10.Recipe3.exe
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter10\Recipe3\bin\Debug\Chapter10.Recipe3.pdb
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter10\Recipe3\bin\Debug\System.Threading.Tasks.Dataflow.dll
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter10\Recipe3\bin\Debug\System.Threading.Tasks.Dataflow.xml
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter10\Recipe3\obj\Debug\Recipe3.csprojResolveAssemblyReference.cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter10\Recipe3\obj\Debug\Recipe3.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter10\Recipe3\obj\Debug\Chapter10.Recipe3.exe
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter10\Recipe3\obj\Debug\Chapter10.Recipe3.pdb

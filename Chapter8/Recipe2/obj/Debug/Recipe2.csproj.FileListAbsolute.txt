@@ -1,0 +1,14 @@
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\Chapter8.Recipe2.exe
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\Chapter8.Recipe2.pdb
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\System.Reactive.Core.dll
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\System.Reactive.Interfaces.dll
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\System.Reactive.Linq.dll
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\System.Reactive.PlatformServices.dll
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\System.Reactive.Core.xml
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\System.Reactive.Interfaces.xml
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\System.Reactive.Linq.xml
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\bin\Debug\System.Reactive.PlatformServices.xml
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\obj\Debug\Recipe2.csprojResolveAssemblyReference.cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\obj\Debug\Recipe2.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\obj\Debug\Chapter8.Recipe2.exe
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter8\Recipe2\obj\Debug\Chapter8.Recipe2.pdb

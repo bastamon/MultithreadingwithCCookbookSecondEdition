@@ -1,0 +1,5 @@
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter3\Recipe2\bin\Debug\Chapter3.Recipe2.exe
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter3\Recipe2\bin\Debug\Chapter3.Recipe2.pdb
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter3\Recipe2\obj\Debug\Recipe2.csproj.CoreCompileInputs.cache
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter3\Recipe2\obj\Debug\Chapter3.Recipe2.exe
+D:\Program Files\HK\Documents\GitHub\MultithreadingwithCCookbookSecondEdition\Chapter3\Recipe2\obj\Debug\Chapter3.Recipe2.pdb
